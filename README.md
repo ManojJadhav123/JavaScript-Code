@@ -1,1 +1,1 @@
-Implemented some questions to deep dive into JavaScript.
+deep dive into JavaScript.
